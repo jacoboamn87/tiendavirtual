@@ -55,7 +55,7 @@ DEFAULT_APPS = [
 THIRD_PARTY_APPS = [
     'south',
     'compressor',
-] + get_core_apps()
+]
 
 MY_APPS = []
 
